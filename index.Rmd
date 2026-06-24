@@ -1,17 +1,17 @@
 ---
-title: "Mayela Fosado Mendoza"
-image: "Mayela_Fosado_Mendoza.jpg"
+title: "Emilio Ortiz Avila"
+image: "Emilio_ProfilePic.jpeg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
-    url: "https://www.linkedin.com/in/mayela-fosado-mendoza/"
-  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
-    url: "https://twitter.com/May_fm0/"
+    url: "https://www.linkedin.com/in/emilio-ortiz-avila-22b6b7340/"
+  - label: '`r fontawesome::fa(name = "x-twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/remi_chefcito"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
-    url: "https://github.com/Mayfm/"
+    url: "https://github.com/Emilio-O/"
   - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
-    url: "https://www.researchgate.net/profile/Mayela-Fosado-Mendoza"
-  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` maye.fosado@gmail.com'
-    url: "mailto:maye.fosado@gmail.com"
+    url: "https://www.researchgate.net/profile/Emilio-Ortiz-Avila-2"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` aeortiz06@gmail.com'
+    url: "aeortiz06@gmail.com"
  #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
   #  url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
@@ -23,15 +23,17 @@ library(fontawesome)
 ```
 
 
-## 🌸 Bio
+## 🌱 Bio
 
-Hi! I’m Mayela, a microbiologist exploring bioinformatics, data science, and computational biology. I am interested in applying computational approaches to understand biological systems and analyze complex biological data.
+Hi! I’m Emilio, a microbiologist focused on bioinformatics, transcriptomics, and computational biology.
 
-I completed my undergraduate thesis at the Instituto de Neurobiología (UNAM), where I performed a metagenomic analysis of the microbiota associated with the body wall of the terrestrial gastropod *Deroceras laeve*. Through this project, I developed experience in bioinformatics workflows, data analysis, and computational tools for biological research.
+My academic work has centered on the analysis of RNA-seq data in non-model organisms. During my thesis work at the **National Autonomous University of Mexico (UNAM)**, I studied differential gene expression associated with the regenerative response of the terrestrial gastropod Deroceras laeve. This project allowed me to strengthen my experience in transcriptomic workflows, omics data analysis, and reproducible computational approaches for biological research.
 
-I am a member of **ISCB RSG-Mexico**, where I contribute to the organization of bioinformatics courses, workshops, symposia, journal clubs, and outreach activities. 
+Beyond research, I have been involved in teaching, bioinformatics training, and scientific outreach. I have contributed to the development of learning materials and the organization of academic activities for students beginning in computational biology.
 
-Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data science through research, training programs, and community-driven initiatives.
+I am also part of **ISCB RSG-Mexico**, where I participate in community-driven initiatives related to bioinformatics education, workshops, symposia, journal clubs, and outreach activities.
+
+Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data analysis through research, teaching, training programs, and collaborative academic communities.
 
 ##  Education
 
@@ -39,25 +41,27 @@ Currently, I continue expanding my skills in bioinformatics, computational biolo
 
 **Undergraduate Thesis** | Instituto de Neurobiología (INB), UNAM 
 
-**Thesis title:** Análisis metagenómico de la microbiota en la pared corporal del gasterópodo *Deroceras laeve*.
+**Thesis title:** Ensamblaje transcriptómico de novo y análisis de expresión diferencial durante la regeneración en *Deroceras laeve*.
 
 ##  Experience
 
-**Research Intern** | Instituto de Neurobiología, UNAM
+**Research intern** | Universidad Nacional Autónoma de México (UNAM)
 
-Research focused on metagenomics, microbiome analysis, and bioinformatics workflows.
+Research focused on RNA-seq analysis, differential expression, and transcriptomic workflows in the terrestrial gastropod Deroceras laeve.
 
-**Council Member** | ISCB RSG-Mexico
+**Instructor and Organizer** | Postgraduate College
 
-Supporting educational initiatives, workshops, symposia, and outreach activities in bioinformatics.
+Taught R and Bash for bioinformatics and contributed to the development of course materials and tutorials.
+
+**Member** | ISCB RSG-Mexico
+
+Supporting educational initiatives, workshops, symposia, journal clubs, and outreach activities in bioinformatics.
 
 ##  Repository Contributions
 
 ### Thesis Project
 
-- [Microbiota Thesis Pipeline](https://github.com/Mayfm/microbiota-thesis-pipeline)
-
-Bioinformatics workflow developed for my undergraduate thesis, including Bash preprocessing, taxonomic classification, diversity analyses, statistical analyses in R, and data visualization.
+- COMMING SOON!
 
 ### Collaborative Work
 
@@ -67,13 +71,14 @@ Educational materials and exercises developed for bioinformatics training activi
 
 ##  Technical Skills
 
-- Metagenomics & microbiome analysis
-- Bioinformatics: Kraken2, phyloseq, KEGG Mapper
+- Transcriptomics & RNA-seq analysis
+- Differential expression analysis
+- Bioinformatics: DESeq2, Trinity
 - Data analysis in R
-- Python for data analysis
 - Bash
+- Basic Python for data analysis
 - Git & GitHub
 
 ##  Interests
 
-Bioinformatics • Computational Biology • Data Science • Metagenomics • Microbiome Research
+Bioinformatics • Computational Biology • Transcriptomics • RNA-seq Analysis • Omics Data Analysis • Differential Gene Expression • Regeneration Biology • Molecular Biology • Scientific Education
