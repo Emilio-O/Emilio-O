@@ -8,12 +8,6 @@ I’m also part of **ISCB RSG-Mexico**, where I participate in community-driven 
 
 Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data analysis through research, teaching, training programs, and collaborative academic communities.
 
-<p align="center">
-
-  <img src="Emilio_ProfilePic.jpeg" />
-
-</p>
-
 ---
 
 ## About Me
